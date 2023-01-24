@@ -1,1 +1,2 @@
 "# MAGEproject" 
+# IMAGEproject
